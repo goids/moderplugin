@@ -1,0 +1,15 @@
+{
+  "name": "modern-extras",
+  "version": "1.0.0",
+  "description": "Plugin for site Modern Talent Hub with tools extra.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gsap",
+    "fullpagejs"
+  ],
+  "author": "Diego Grueso <goidesdesign@gmail.com>",
+  "license": "MIT"
+}
